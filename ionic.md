@@ -10,9 +10,6 @@
 # create ionic project
 # project name = fp
 # tempalte = blank
-# ./fp/www/lib contains the ionic library (you can delete rest)
+# ./fp/www/lib contains the ionic library (you can delete other content of www)
 ionic start fp blank
-
-
-
 ```
